@@ -1275,7 +1275,7 @@ export const MOCK_CHAT_MESSAGES: import("./types").ChatMessage[] = [
   {
     id: "msg-001",
     role: "assistant",
-    content: "Hello David! 👋 I'm your RetirementHub AI Planner. Based on your profile, I can see you're planning to retire in Chiang Mai in about 2 years. You have a Retirement Readiness Score of **72/100 (On Track)**.\n\nI can help you with:\n- 📋 Visa requirements and application planning\n- 💰 Financial planning for Thailand\n- 🏥 Healthcare and insurance options\n- 🏙️ City comparison and lifestyle planning\n- 🔍 Finding the right services for your needs\n\nWhat would you like to explore today?",
+    content: "Hello David! 👋 I'm your Longevity AI Planner. Based on your profile, I can see you're planning to retire in Chiang Mai in about 2 years. You have a Retirement Readiness Score of **72/100 (On Track)**.\n\nI can help you with:\n- 📋 Visa requirements and application planning\n- 💰 Financial planning for Thailand\n- 🏥 Healthcare and insurance options\n- 🏙️ City comparison and lifestyle planning\n- 🔍 Finding the right services for your needs\n\nWhat would you like to explore today?",
     timestamp: "2026-04-30T09:00:00Z",
   },
 ]

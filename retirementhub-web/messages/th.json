@@ -56,7 +56,7 @@
     "citiesTitle": "เลือกเมืองของคุณ",
     "citiesSubtitle": "เปรียบเทียบจุดหมายเกษียณชั้นนำของไทย",
     "exploreCities": "สำรวจและเปรียบเทียบเมือง",
-    "whyTitle": "ทำไมต้องเลือก RetirementHub?",
+    "whyTitle": "ทำไมต้องเลือก Longevity?",
     "whyVerified": "เฉพาะผู้ให้บริการที่ผ่านการตรวจสอบ",
     "whyVerifiedDesc": "ผู้ให้บริการทุกรายผ่านกระบวนการตรวจสอบของเรา รีวิวปลอมถูกกรองโดย AI",
     "whyAI": "การวางแผนเกษียณด้วย AI",
@@ -84,7 +84,7 @@
     "exploreCitiesTitle": "สำรวจเมืองในไทย",
     "exploreCitiesSubtitle": "ค้นหาเมืองที่เหมาะกับไลฟ์สไตล์และงบประมาณของคุณ",
     "compareCities": "เปรียบเทียบเมือง",
-    "trustSectionTitle": "ทำไมผู้เกษียณถึงไว้วางใจ RetirementHub",
+    "trustSectionTitle": "ทำไมผู้เกษียณถึงไว้วางใจ Longevity",
     "trustSectionSubtitle": "สร้างขึ้นโดยมีความปลอดภัย ความโปร่งใส และความสบายใจของคุณเป็นหัวใจหลัก",
     "trustVerified": "ผู้ให้บริการที่ผ่านการตรวจสอบ",
     "trustVerifiedDesc": "ผู้ให้บริการทุกรายได้รับการยืนยันตัวตนและอนุมัติด้วยตนเองโดยทีมของเราก่อนลงประกาศ",
@@ -308,9 +308,9 @@
   },
   "Auth": {
     "loginTitle": "ยินดีต้อนรับกลับ",
-    "loginSubtitle": "เข้าสู่ระบบบัญชี RetirementHub ของคุณ",
+    "loginSubtitle": "เข้าสู่ระบบบัญชี Longevity ของคุณ",
     "registerTitle": "เริ่มต้นการเดินทางในไทยของคุณ",
-    "registerSubtitle": "สร้างบัญชี RetirementHub ฟรีของคุณ",
+    "registerSubtitle": "สร้างบัญชี Longevity ฟรีของคุณ",
     "email": "อีเมล",
     "password": "รหัสผ่าน",
     "confirmPassword": "ยืนยันรหัสผ่าน",
@@ -327,7 +327,7 @@
   "Footer": {
     "tagline": "วางแผน เปรียบเทียบ ไว้ใจ และจองทุกอย่างสำหรับชีวิตและการเกษียณในไทย — ในที่เดียว",
     "compliance": "สอดคล้อง PDPA · เฉพาะผู้ให้บริการที่ผ่านการตรวจสอบ",
-    "copyright": "© 2026 RetirementHub. สงวนลิขสิทธิ์ทั้งหมด",
+    "copyright": "© 2026 Longevity. สงวนลิขสิทธิ์ทั้งหมด",
     "disclaimer": "ผลลัพธ์ AI มีไว้เพื่อให้ข้อมูลเท่านั้น ไม่ใช่คำแนะนำทางการเงินหรือการแพทย์",
     "sections": {
       "services": "บริการ",

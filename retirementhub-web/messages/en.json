@@ -56,7 +56,7 @@
     "citiesTitle": "Choose Your City",
     "citiesSubtitle": "Compare Thailand's top retirement destinations",
     "exploreCities": "Explore & Compare Cities",
-    "whyTitle": "Why RetirementHub?",
+    "whyTitle": "Why Longevity?",
     "whyVerified": "Verified Providers Only",
     "whyVerifiedDesc": "Every provider goes through our vetting process. Fake reviews are filtered by AI.",
     "whyAI": "AI Retirement Planning",
@@ -84,7 +84,7 @@
     "exploreCitiesTitle": "Explore Thai Cities",
     "exploreCitiesSubtitle": "Find the city that fits your lifestyle and budget",
     "compareCities": "Compare cities",
-    "trustSectionTitle": "Why Retirees Trust RetirementHub",
+    "trustSectionTitle": "Why Retirees Trust Longevity",
     "trustSectionSubtitle": "Built with security, transparency, and your peace of mind at the core",
     "trustVerified": "Verified Providers",
     "trustVerifiedDesc": "All providers are identity-verified and manually approved by our team before listing.",
@@ -308,9 +308,9 @@
   },
   "Auth": {
     "loginTitle": "Welcome back",
-    "loginSubtitle": "Sign in to your RetirementHub account",
+    "loginSubtitle": "Sign in to your Longevity account",
     "registerTitle": "Start your Thailand journey",
-    "registerSubtitle": "Create your free RetirementHub account",
+    "registerSubtitle": "Create your free Longevity account",
     "email": "Email",
     "password": "Password",
     "confirmPassword": "Confirm Password",
@@ -327,7 +327,7 @@
   "Footer": {
     "tagline": "Plan, compare, trust, and book everything for life and retirement in Thailand — in one place.",
     "compliance": "PDPA Compliant · Verified Providers Only",
-    "copyright": "© 2026 RetirementHub. All rights reserved.",
+    "copyright": "© 2026 Longevity. All rights reserved.",
     "disclaimer": "AI outputs are for informational purposes only. Not financial or medical advice.",
     "sections": {
       "services": "Services",

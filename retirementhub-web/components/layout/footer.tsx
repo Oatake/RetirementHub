@@ -40,9 +40,9 @@ export function Footer() {
           <div className="col-span-2 md:col-span-1">
             <div className="flex items-center gap-2 mb-3">
               <div className="h-8 w-8 rounded-lg bg-primary flex items-center justify-center">
-                <span className="text-white font-bold text-sm">R</span>
+                <span className="text-white font-bold text-sm">L</span>
               </div>
-              <span className="font-bold text-primary text-lg">RetirementHub</span>
+              <span className="font-bold text-primary text-lg">Longevity</span>
             </div>
             <p className="text-sm text-on-surface-dim leading-relaxed">{t("tagline")}</p>
             <p className="text-xs text-on-surface-dim mt-4">{t("compliance")}</p>

@@ -13,7 +13,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "RetirementHub — Plan, Move, Thrive in Thailand",
+  title: "Longevity",
   description:
     "AI-powered retirement planning, service marketplace, and relocation hub for Thailand. Compare cities, find vetted providers, and plan your perfect retirement.",
 }

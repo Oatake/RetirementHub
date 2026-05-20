@@ -31,9 +31,9 @@ export function Navbar() {
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2.5 shrink-0">
           <div className="h-8 w-8 rounded-lg bg-primary flex items-center justify-center">
-            <span className="text-white font-bold text-sm">R</span>
+            <span className="text-white font-bold text-sm">L</span>
           </div>
-          <span className="font-bold text-primary text-lg hidden sm:block">RetirementHub</span>
+          <span className="font-bold text-primary text-lg hidden sm:block">Longevity</span>
         </Link>
 
         {/* Desktop Nav */}

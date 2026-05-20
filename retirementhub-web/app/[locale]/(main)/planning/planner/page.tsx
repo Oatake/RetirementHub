@@ -82,7 +82,7 @@ export default function PlannerPage() {
             <Bot className="h-5 w-5 text-white" />
           </div>
           <div>
-            <p className="text-sm font-semibold text-on-surface">RetirementHub AI Planner</p>
+            <p className="text-sm font-semibold text-on-surface">Longevity AI Planner</p>
             <p className="text-xs text-secondary">● Online</p>
           </div>
         </div>
