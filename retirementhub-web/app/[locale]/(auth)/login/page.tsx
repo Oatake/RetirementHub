@@ -40,7 +40,7 @@ export default function LoginPage() {
       <div className="bg-surface-white border border-outline-light/60 rounded-2xl shadow-card p-8">
         <div className="text-center mb-6">
           <h1 className="text-2xl font-bold text-on-surface mb-1.5">Welcome back</h1>
-          <p className="text-sm text-on-surface-dim">Sign in to your RetirementHub account</p>
+          <p className="text-sm text-on-surface-dim">Sign in to your Longevity account</p>
         </div>
 
         <Button variant="outline" className="w-full gap-2 mb-4" type="button">
